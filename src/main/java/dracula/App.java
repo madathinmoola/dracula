@@ -11,6 +11,8 @@ public class App
 
         System.out.println("Pushing to Master");
         System.out.println( "Hello World!" );
+
+        System.out.println("Pushing to Master 2");
     }
 
 
